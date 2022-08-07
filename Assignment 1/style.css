@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Kahlil;
+    src: url(font/Kahlil.ttf);
+}
+
+body {
+    background-color: #1F1F1F;
+    background-image: url('img/fatimaalqadiri.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+h1 {
+    font-family: Kahlil;
+    font-size: 6em;
+    background: linear-gradient(#F9EE5A 0%, #F7A325 50%, #DE490B 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    opacity: 0.8;
+}
+
+div {
+    background-color: antiquewhite;
+}
